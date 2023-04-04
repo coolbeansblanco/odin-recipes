@@ -1,0 +1,18 @@
+
+h1{
+    text-align: right;
+    color: aliceblue;
+    background-color: rgb(255, 145, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    color: white;
+    background-color: teal;
+    font-size: 20px;
+}
+
+.odd{
+    background-color: white;
+    color: teal;
+}
